@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802953341179",
+    "project_id": "cultquizapplication-4d097",
+    "storage_bucket": "cultquizapplication-4d097.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802953341179:android:c7e8eaf66d24ddebc9e85e",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBapQhX8CDsaEAX1DFoWQ8ZIRJyKke6ODM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
